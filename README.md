@@ -1,8 +1,8 @@
 
 
-# Hello, World! :sparkles::dizzy::earth_americas::dart:
+# Olá, Mundo! :sparkles::dizzy::earth_americas:🇧🇷:dart:
 ## I'm Wagner Souto :bust_in_silhouette:
-:uk: en_us :uk:
+:uk: lang="en" :uk:
 - 🌎 I live in Porto Alegre - RS, South of Brazil :brazil:
 - 🚴🏾 I’m currently working on bicycle delivery
 - 🌱 I’m learning Front end Development at Alura Cursos Online (Distance Education), and have a Technical degree on Eletronics at CTE - Parobé RS :student::books:
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Lo-fi lover, Retro Games and fixed gear bikes. :headphones: :video_game: 🚴🏾
 
 
-:brazil: pt-br :brazil:
+:brazil: lang="pt-br" :brazil:
 - 🌎 Eu sou de Porto Alegre - RS, Sul do Brasil :brazil:
 - 🚴🏾 Atualmente sou ciclo-entregador
 - 🌱 Estou aprendendo Front end Development na Alura Cursos Online (EAD), e tenho formação Técnica em Eletrônica no CTE - Parobé RS :student::books:
