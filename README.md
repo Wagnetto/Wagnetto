@@ -1,27 +1,10 @@
 
-<!--
-**Wagnetto/Wagnetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--
-- .
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**designtechti/designtechti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
 ## I'm Wagner Souto :bust_in_silhouette:
 :uk: en_us :uk:
 - 🌎 I live in Porto Alegre - RS, South of Brazil :brazil:
-- 🚴🏾 I’m currently working on bycicle delivery
+- 🚴🏾 I’m currently working on bicycle delivery
 - 🌱 I’m learning Front end Development at Alura Cursos Online (Distance Education), and have a Technical degree on Eletronics at CTE - Parobé RS :student::books:
 - 👯 I’m looking to collaborate on Web Development, Software Development and Technical Support. :technologist::computer: :electric_plug: :hammer_and_wrench:
 - Ask me about: Budgets of Computer Assembly & Maintenance services, Help Desk Technical Support, Remote Access (Windows & Linux), IoT Projects, Raspberry Pi, OpenSource and more. :warning:
