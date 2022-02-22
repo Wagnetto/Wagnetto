@@ -1,51 +1,50 @@
 
 
-# Olá, Mundo! :sparkles::dizzy::earth_americas:🇧🇷:dart:
-## I'm Wagner Souto :bust_in_silhouette:
-:uk: lang="en" :uk:
-- 🌎 I live in Porto Alegre - RS, South of Brazil :brazil:
-- 🚴🏾 I’m currently working on bicycle delivery
-- 🌱 I’m learning Front end Development at Alura Cursos Online (Distance Education), and have a Technical degree on Eletronics at CTE - Parobé RS :student::books:
-- 👯 I’m looking to collaborate on Web Development, Software Development and Technical Support. :technologist::computer: :electric_plug: :hammer_and_wrench:
-- Ask me about: Budgets of Computer Assembly & Maintenance services, Help Desk Technical Support, Remote Access (Windows & Linux), IoT Projects, Raspberry Pi, OpenSource and more. :warning:
-- ⚡ Fun fact: Lo-fi lover, Retro Games and fixed gear bikes. :headphones: :video_game: 🚴🏾
+# Welcome!
+## I'm Wagner Souto
 
 
-:brazil: lang="pt-br" :brazil:
-- 🌎 Eu sou de Porto Alegre - RS, Sul do Brasil :brazil:
-- 🚴🏾 Atualmente sou ciclo-entregador
-- 🌱 Estou aprendendo Front end Development na Alura Cursos Online (EAD), e tenho formação Técnica em Eletrônica no CTE - Parobé RS :student::books:
-- 👯 Gostaria de colaborar em Desenvolvimento Web, desenvolvimento de Software e Suporte Técnico. :technologist::computer: :electric_plug: :hammer_and_wrench:
-- Ask me about: Budgets of Computer Assembly & Maintenance services, Help Desk Technical Support, Remote Access (Windows & Linux), IoT Projects, Raspberry Pi, OpenSource and more. :warning:
-- ⚡ Fun fact: Lo-fi lover, Retro Games and fixed gear bikes. :headphones: :video_game: 🚴🏾 
+I'm an Electronichs technician, working my way on Front-end development 
+
+While coding I'm pretty much always on a Lo-fi Radio.
+
+I live at Porto Alegre-RS, Brazil
+
+Love riding my fixie bike, and have some work on deliveries too.
+
+- Ask me about: Front end Design, Maintenance services, Help Desk Technical Support, Raspberry Pi, IoT Projects, OpenSource and more.
+
 
 ## How to reach me :dart:
-
-Scan this QR Code below or follow this [link](https://beacons.ai/wagnetto) to access my social media
-<br>
+## [Beacons](https://beacons.ai/wagnetto):
 
 <img width=250 height=250 alt="wagnetto_beacons_qrcode" src="https://user-images.githubusercontent.com/79273930/134972707-22fcf6ed-cf46-45cb-aaaa-59b5ab15b339.jpg"/>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souto-wagner/)](https://www.linkedin.com/in/souto-wagner/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnerssouto@gmail.com)](mailto:wagnerssouto@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551991337149&text=Hello!)](https://api.whatsapp.com/send?phone=5551991337149&text=Hello!)
+
+
 <br>
 
-## My Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original-wordmark.svg" alt="GIT" width="40" height="40" style="max-width:100%;"></img>
+## Some skill badges
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original-wordmark.svg" alt="GIT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" alt="RaspberryPi" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80" style="max-width:100%;"></img>
 <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width:100%;"></img>
 
 ![Wagnetto's github stats](https://github-readme-stats.vercel.app/api?username=Wagnetto&show_icons=true&count_private=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagnetto&layout=compact&langs_count=7&theme=dracula)
 
- ![Snake animation](https://github.com/designtechti/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/designtechti/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-### "No time to loose - LIGHTYEAR, Buzz"
-### "Wagnetto - Técnico em Eletrônica / Estudante de Desenvolvimento Web"
+### Thanks for visiting! ☕
