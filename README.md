@@ -3,14 +3,15 @@
 # Welcome!
 ## I'm Wagner Souto
 
+I'm working with Frontend as Software Engineer at iFood | Tech & Logistics Tribe
 
-I'm an Electronichs technician, working my way on Front-end development 
+Graduated as Electronichs technician, I have a crush on low level stuff, as well as on Design and Interfaces. 
 
 While coding I'm pretty much always on a Lo-fi Radio.
 
 I live at Porto Alegre-RS, Brazil
 
-Love riding my fixie bike, and have some work on deliveries too.
+Love riding my fixie bike, and had some year working on deliveries too.
 
 - Ask me about: Front end Design, Maintenance services, Help Desk Technical Support, Raspberry Pi, IoT Projects, OpenSource and more.
 
