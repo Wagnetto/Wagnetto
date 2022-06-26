@@ -22,7 +22,7 @@ Love riding my fixie bike, and had some year working on deliveries too.
 <img width=250 height=250 alt="wagnetto_beacons_qrcode" src="https://user-images.githubusercontent.com/79273930/134972707-22fcf6ed-cf46-45cb-aaaa-59b5ab15b339.jpg"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souto-wagner/)](https://www.linkedin.com/in/souto-wagner/)
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/soutonofront/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/soutonofront/)](https://www.instagram.com/soutonofront/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnerssouto@gmail.com)](mailto:wagnerssouto@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551991337149&text=Hello!)](https://api.whatsapp.com/send?phone=5551991337149&text=Hello!)
 
