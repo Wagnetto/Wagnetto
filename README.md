@@ -7,11 +7,9 @@ I'm a Software Engineer with solid experience on Frontend using stacks as:
 
 ✔️ React
 
-✔️ NextJS
-
 ✔️ Typescript
 
-✔️ Next
+✔️ NextJS
 
 ✔️ Nx
 
