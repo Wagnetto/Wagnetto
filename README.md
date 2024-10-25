@@ -2,10 +2,13 @@
 
 # Hi! I'm Wagner!
 
+Front-end Developer focused on React, with 2+ years of experience in building and maintaining web applications. Skilled in enhancing user interfaces and optimizing development experience, by creating Design System based reusable components to monorepos, and integrating Web views into native apps through middleware environments using Next.js. I'm enthusiastic about quality code delivery, focused on tested code, and monitoring frameworks that ensure scalable solutions. Currently expanding skills in Node.js for a Full stack development approach.
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-I'm a Software Engineer with solid experience on Frontend, graduating on Computer Science. This is my lab for the following stacks:
+
 
 <div align="center" >
+    I'm on a Bachelor's degree in Computer Science. This is my lab for the following stacks:
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,jest,git,styledcomponents,tailwind,sass,css,html,vscode,nodejs,nest,docker,figma,github,linux,postman,vercel,vite" />
   </a>
@@ -15,10 +18,7 @@ I'm a Software Engineer with solid experience on Frontend, graduating on Compute
 
 - - -
 
-Moving forward to a Fullstack position I'm developing my skills on Node and Nest
-
-
-I have a technical degree in Electronics, therefore I have a crush on low-level stuff. 
+I also have a technical degree in Electronics, therefore I have a crush on low-level and bricolage stuff. 
 
 I like running and riding my fixie bike, and I had some years working on deliveries too.
 
