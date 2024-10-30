@@ -39,11 +39,11 @@ Let's grab a coffee and talk a bit about Front-end Development, IoT Projects on 
 
 <br />
 
-
+<!--
 ![Wagnetto's github stats](https://github-readme-stats.vercel.app/api?username=Wagnetto&show_icons=true&count_private=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagnetto&layout=compact&langs_count=7&theme=dracula)
-
+-->
 
 
 ### Thanks for visiting! ☕
