@@ -2,7 +2,7 @@
 
 # Hi! I'm Wagner!
 
-Front-end Developer focused on React, with 2+ years of experience in building and maintaining web applications. Skilled in enhancing user interfaces and optimizing development experience, by creating Design System based reusable components to monorepos, and integrating Web views into native apps through middleware environments using Next.js. I'm enthusiastic about quality code delivery, focused on tested code, and monitoring frameworks that ensure scalable solutions. Currently expanding skills in Node.js for a Full stack development approach.
+Developer with 3 years of experience in the React JS and JavaScript ecosystem, specialized in building and maintaining tested and scalable codebases. Solid expertise in developing and enhancing Design Systems, Product Libraries, and integrating with APIs and Backend for Frontend architectures. Passionate about end-to-end solutions, with the ability to collaborate across various stages of the development cycle, ensuring performance, scalability, and usability. Before transitioning to a tech career, I spent 10 years teaching Yoga and training instructors. Additionally, I managed and provided delivery services on bike in a courier collective.
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
